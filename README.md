@@ -1,5 +1,4 @@
-# M-Les
-M-Les: Open Practice on Machine Learning for Energy Systems
+# M-Les: Open Practice on Machine Learning for Energy Systems
 
 Hello there and welcomd to M-Les!
 
